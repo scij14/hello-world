@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hi humans!
+
+I will make this Git for my own apps' security
